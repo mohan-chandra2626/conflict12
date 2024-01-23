@@ -1,3 +1,3 @@
 Hello, my feature2 changes
-
+Hi have a feature with fetch commits 
 
