@@ -1,9 +1,13 @@
 pipeline{
+<<<<<<< HEAD
+    This line is added by saikiran
+=======
 	hello this my code
+>>>>>>> develop
     stages{
         stage()
         {
-            
+
         }
     }
 }
